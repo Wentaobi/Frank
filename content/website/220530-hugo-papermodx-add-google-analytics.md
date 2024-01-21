@@ -40,7 +40,3 @@ privacy:
 > ```
 >
 > 2. 修改部署脚本：`run: hugo --minify`后加上`-e production`
-> ```yml { title="./.github/workflows/gh-pages.yml }
->       - name: Build
->         run: hugo --minify -e production
-> ```
