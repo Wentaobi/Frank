@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Angular on loyayz</title>
+    <link>https://Wentaobi.github.io/tags/angular/</link>
+    <description>Recent content in Angular on loyayz</description>
+    <image>
+      <url>https://Wentaobi.github.io/papermod-cover.png</url>
+      <link>https://Wentaobi.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://Wentaobi.github.io/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IdeaWorlds 特性模块</title>
+      <link>https://Wentaobi.github.io/coding/220620-iws-client-modules/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://Wentaobi.github.io/coding/220620-iws-client-modules/</guid>
+      <description>IdeaWorlds 前端开发笔记（五） 本篇目标：创建特性模块。 新建模块 创建home、idea、news、people、tag五个模块并使用懒加载 。 1 2 3 4 5 ng</description>
+    </item>
+    
+    <item>
+      <title>IdeaWorlds 网站布局</title>
+      <link>https://Wentaobi.github.io/coding/220619-iws-client-layout/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://Wentaobi.github.io/coding/220619-iws-client-layout/</guid>
+      <description>IdeaWorlds 前端开发笔记（四） 本篇目标：实现网站布局，其中页头全站固定，内容区将随着导航切换而显示对应的组件。 LOGO 导航 操作区 用户信息 content 新建模块和组件 1 2</description>
+    </item>
+    
+    <item>
+      <title>IdeaWorlds 前端自动化部署</title>
+      <link>https://Wentaobi.github.io/coding/220618-iws-client-cicd/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://Wentaobi.github.io/coding/220618-iws-client-cicd/</guid>
+      <description>IdeaWorlds 前端开发笔记（三） 本篇目标：介绍本项目的前端自动化部署。 趁 618 买了台腾讯云的服务器折腾了下，因此先提前写下前端部署的笔记，完整流程： 开通容器</description>
+    </item>
+    
+    <item>
+      <title>IdeaWorlds 前端工程结构</title>
+      <link>https://Wentaobi.github.io/coding/220616-iws-client-project-structure/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://Wentaobi.github.io/coding/220616-iws-client-project-structure/</guid>
+      <description>IdeaWorlds 前端开发笔记（二） 本篇目标：介绍本项目的前端工程结构规范。 1. 为什么要有结构规范？ 合理的结构能让开发人员快速定位到与特性有关的所有文件 良好的</description>
+    </item>
+    
+    <item>
+      <title>IdeaWorlds 初始化前端工程</title>
+      <link>https://Wentaobi.github.io/coding/220615-iws-client-init/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://Wentaobi.github.io/coding/220615-iws-client-init/</guid>
+      <description>IdeaWorlds 前端开发笔记（一） 本篇目标：介绍 Angular 工程初始化步骤。 《IdeaWorlds 前端开发笔记》记录从初始化到部署的过程，前端选用的Angular在</description>
+    </item>
+    
+  </channel>
+</rss>
